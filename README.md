@@ -39,8 +39,10 @@ foo();
 foo!();
 ```
 
-This gist contains the full example you can clone and verify.
+This repo contains the full example you can clone and verify.
 
 ```sh
+git clone https://github.com/fredrik-hammar/rust-function-and-proc-macro-with-same-name.git
+cd rust-function-and-proc-macro-with-same-name
 cargo test
 ```
