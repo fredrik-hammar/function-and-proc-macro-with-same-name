@@ -1,4 +1,4 @@
-# Function and `proc_macro` with same name
+# Rust: How to have function and `proc_macro` with same name
 
 It is not possible to define both a `proc_macro` and a function
 in the same crate.
