@@ -1,4 +1,4 @@
-# Rust: How export a function and a `proc_macro` with same name
+# Rust: How to export a function and a `proc_macro` with same name
 
 I was in the process of writing a macro helper when I realized that
 the macro might also be useful as a function for other `proc_macro`
