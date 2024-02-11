@@ -8,8 +8,7 @@ a `proc_macro` and a function in the same crate.
 
 Because searching did not give an answer I decided to write down
 the solution here.
-In the end, I ended up defining a trait instead
-though :)
+In the end, I ended up defining a trait instead though :)
 
 ```rust
 use proc_macro::TokenStream;
