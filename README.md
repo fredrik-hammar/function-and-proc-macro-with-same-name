@@ -4,7 +4,7 @@ I was in the process of writing a macro helper when I realized that
 the macro might also be useful as a function for other `proc_macro`
 crates.
 But then I ran into the problem that is not possible to export both
-a `proc_macro` and a function in the same crate.
+a `proc_macro` and a function from the same crate.
 
 Because searching did not give an answer I decided to write down
 the solution here.
